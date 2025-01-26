@@ -32,5 +32,5 @@ if len(email) >= 6:
         print("Invalid email ID 2")
 else:
     print("Invalid email ID 1")
-```
+
 
